@@ -4,4 +4,4 @@ body #wall #tag-2 {display: none;}
 body #wall #tag-3.slick {display: none;} 
 #wall .parent #tag-4 {display: none;}
 body #wall .parent #tag-5.slick {display: none;}
-html body #wall .parent :last-child #tag-6 {display: none;}
+body #wall .parent :last-child #tag-6 {display: none;}
